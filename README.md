@@ -1,60 +1,98 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF9933,50:FFFFFF,100:138808&text=ARYAMAN%20SHARMA&fontColor=101827&fontSize=45&fontAlignY=38&desc=Code%20for%20India.%20Build%20for%20the%20World.&descAlignY=58&descSize=17" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&height=65&lines=ARYAMAN+SHARMA;DEVELOPER+%7C+BUILDER+%7C+INNOVATOR" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Aryaman+Sharma+%F0%9F%91%8B;Python+%26+HTML+Developer+%F0%9F%90%8D;High+School+Student+%F0%9F%8E%93;Building+Projects+%26+Solving+Problems+%F0%9F%9A%80;Dreaming+of+a+Tech-Powered+India+%F0%9F%87%AE%F0%9F%87%B3" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=900&color=9CA3AF&center=true&vCenter=true&width=750&height=35&lines=Python+%26+HTML+Developer;Turning+Ideas+Into+Technology;Building+Projects+That+Matter;Innovating+From+India+%F0%9F%87%AE%F0%9F%87%B3" />
 
-<img src="https://komarev.com/ghpvc/?username=AryamanSharmaTheKing&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AryamanSharmaTheKing&style=for-the-badge&color=00D9FF&label=PROFILE+VISITS"/>
+<img src="https://img.shields.io/github/followers/AryamanSharmaTheKing?style=for-the-badge&logo=github&color=7B2FF7&label=FOLLOWERS"/>
 
 </div>
 
-👨‍💻 About Me
+<div align="center">
 
-Hey there! I'm Aryaman Sharma, a young developer from India 🇮🇳.
+> INITIALIZING DEVELOPER PROFILE...
 
-I'm a high school student passionate about programming, technology, innovation, and building things that make a difference.
+</div>
 
-🐍 Python Developer
-🌐 HTML Developer
-🎓 High School Student
-🚀 Working on multiple projects and exploring new ideas
-💡 Interested in creating technology that makes business operations easier
-🇮🇳 Dreaming of helping India become a global technology hub
+bash
+$ whoami
+
+Aryaman Sharma
+Python & HTML Developer
+High School Student
+India 🇮🇳
+
+$ current_status
+
+Learning       [ACTIVE]
+Building       [ACTIVE]
+Experimenting  [ACTIVE]
+Innovating     [ACTIVE]
+
+$ mission
+
+Build useful technology.
+Simplify business operations.
+Turn ideas into real-world solutions.
+
+$ vision
+
+Help make India a global technology hub.
+
+⚡ About Me
+
+Hey! I'm Aryaman Sharma, a young developer passionate about programming, innovation, and technology.
+
+I'm currently a high school student exploring the world of software development and building multiple projects.
+
+🐍 Working with Python.
+🌐 Developing with HTML.
+💡 Exploring creative solutions to real-world problems.
+⚙️ Interested in automation and business technology.
+🚀 Constantly experimenting with new ideas.
+🇮🇳 Building from India with a global mindset.
 🎯 My Mission
 
-I believe technology should make people's lives easier.
+I want to make technology more accessible and useful for businesses.
 
-My goal is to help businesses adopt technology, automate repetitive work, improve productivity, and grow through smart software solutions.
+My long-term vision is to build innovative software solutions, simplify everyday workflows, and contribute to India's growth as a global technology hub.
 
-I also want to contribute to India's technological growth and help make our country a global leader in innovation.
-
-Code for India. Build for the World. 🇮🇳
-
-🛠️ Tech Stack & Tools
+🧠 Tech Stack
 
 <div align="center">
 
-Languages
-
-<img src="https://skillicons.dev/icons?i=python,html" />
-
-Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,html,git,github,vscode,linux&theme=dark"/>
 
 </div>
 
-📊 GitHub Statistics
+Currently Exploring
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AryamanSharmaTheKing&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://skillicons.dev/icons?i=css,js,flask&theme=dark"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AryamanSharmaTheKing&theme=tokyonight&hide_border=true" />
+</div>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryamanSharmaTheKing&layout=compact&theme=tokyonight&hide_border=true" />
+📊 GitHub Performance
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AryamanSharmaTheKing&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=FFFFFF"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AryamanSharmaTheKing&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7B2FF7&currStreakLabel=00D9FF"/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryamanSharmaTheKing&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+</div>
+
+📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AryamanSharmaTheKing&bg_color=0D1117&color=00D9FF&line=7B2FF7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -62,51 +100,60 @@ Tools & Technologies
 
 <div align="center">
 
-Watch the snake eat my GitHub contribution graph!
-
-<img src="https://raw.githubusercontent.com/AryamanSharmaTheKing/AryamanSharmaTheKing/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/AryamanSharmaTheKing/AryamanSharmaTheKing/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
 
-🚀 What I'm Working Towards
-Building useful Python applications.
-Exploring web development.
-Creating software that solves real-world problems.
-Helping businesses simplify their workflows with technology.
-Learning new tools, technologies, and development techniques.
-Contributing to India's growing technology ecosystem.
-🌟 Featured Projects
+🚀 Projects & Experiments
+
+I believe the best way to learn technology is to build with it.
+
+My development interests include:
+
+Python applications and automation.
+Web development and digital experiences.
+Business tools and productivity solutions.
+Software that solves practical problems.
+Innovative ideas with real-world applications.
 
 <div align="center">
 
 <a href="https://github.com/AryamanSharmaTheKing?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
 
-🤝 Let's Connect!
-
-I'm always interested in learning, collaborating, sharing ideas, and building interesting projects.
+🎯 Roadmap
+Build more Python applications.
+Improve my web development skills.
+Explore backend development.
+Develop useful business automation tools.
+Build software for real-world problems.
+Contribute to open-source projects.
+Create technology that makes a meaningful impact.
+🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/AryamanSharmaTheKing">
-<img src="https://img.shields.io/badge/GitHub-AryamanSharmaTheKing-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-AryamanSharmaTheKing-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/AryamanSharmaTheKing?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-7B2FF7?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
 <div align="center">
 
-💭 A Little Reminder
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=40&lines=THINK.+BUILD.+INNOVATE.;CODE+IS+MY+TOOL.+INNOVATION+IS+MY+GOAL.;BUILT+IN+INDIA.+THINKING+GLOBALLY.;THANKS+FOR+VISITING+MY+PROFILE!" />
 
-"The future belongs to those who build it."
+<br/>
 
-Keep learning. Keep building. Keep innovating.
+Made with curiosity, code, and ambition. 🇮🇳
 
-🇮🇳 Made with passion in India.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,50:101B36,100:7B2FF7" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,50:FFFFFF,100:138808&height=120&section=footer" width="100%"/>
