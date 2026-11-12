@@ -68,11 +68,11 @@ Think Independently. Build Innovatively. Create Globally.
 <img src="https://img.shields.io/badge/JavaScript-Exploring-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 🖥️ Developer Console
-NAME:  - Aryaman Sharma
-GitHub - AryamanSharmaTheKing
-Country - India
-Skills - Python and HTML
-Interests - Software development, automation, business technology
+NAME:  - Aryaman Sharma|
+GitHub - AryamanSharmaTheKing|
+Country - India|
+Skills - Python and HTML|
+Interests - Software development, automation, business technology|
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&height=35&lines=%3E+Initializing+creative+ideas...;%3E+Building+something+awesome...;%3E+Innovation+mode%3A+ACTIVE;%3E+Never+stop+learning!"/>
