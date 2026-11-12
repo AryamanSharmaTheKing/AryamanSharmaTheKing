@@ -68,26 +68,11 @@ Think Independently. Build Innovatively. Create Globally.
 <img src="https://img.shields.io/badge/JavaScript-Exploring-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 🖥️ Developer Console
-python
-developer = {
-    "name": "Aryaman Sharma",
-    "username": "AryamanSharmaTheKing",
-    "country": "India 🇮🇳",
-    "role": "Developer & Student",
-    "skills": ["Python", "HTML"],
-    "interests": [
-        "Software Development",
-        "Automation",
-        "Business Technology",
-        "Innovation"
-    ],
-    "status": "Always Building 🚀"
-}
-
-print("Welcome to my developer universe!")
-print(developer)
-
-
+NAME:  - Aryaman Sharma
+GitHub - AryamanSharmaTheKing
+Country - India
+Skills - Python and HTML
+Interests - Software development, automation, business technology
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&height=35&lines=%3E+Initializing+creative+ideas...;%3E+Building+something+awesome...;%3E+Innovation+mode%3A+ACTIVE;%3E+Never+stop+learning!"/>
@@ -111,16 +96,6 @@ print(developer)
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryamanSharmaTheKing&bg_color=0D1117&color=00D9FF&line=7B2FF7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AryamanSharmaTheKing/AryamanSharmaTheKing/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
-
-</div>
 
 🚀 Projects & Experiments
 
@@ -170,10 +145,8 @@ I'm always excited to learn, experiment, and build something meaningful.
 
 <div align="center">
 
-💭 Developer's Philosophy
-
 "Don't just follow the future. Build it."
-
+"Think Global. Build Indigenous. Advance India."
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=40&lines=THINK.+BUILD.+INNOVATE.;CODE+IS+MY+TOOL.+INNOVATION+IS+MY+GOAL.;BUILT+IN+INDIA.+THINKING+GLOBALLY.;THANKS+FOR+VISITING+MY+PROFILE!"/>
 
 <br/>
